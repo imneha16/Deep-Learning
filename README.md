@@ -1,2 +1,3 @@
-# Eedi---Mining-Misconceptions-in-Mathematics
-Kaggle Competition
+# Eedi---Mining-Misconceptions-in-Mathematics (Kaggle Competition)
+In this project, the objective is to identify those specific misconceptions students have when they choose incorrect answers on multiple-choice questions. The goal is to be able to better understand the mindset of the student taking the test so that teachers can provide better and more targeted feedback that addresses the specific misconception. This competition will be evaluated based on the mean average precision score (mAP). By utilizing natural language processing, we will be able to create a model that accurately infers the misconception for each wrong answer on the test. 
+
